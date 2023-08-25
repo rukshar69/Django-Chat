@@ -1,13 +1,17 @@
 # Django-Chat
 Creating a realtime group chat app using Django-channels and Redis server
 
+## Video Demo
+[![Alt Text](https://img.youtube.com/vi/kauqyLk7AIk/0.jpg)](https://www.youtube.com/watch?v=kauqyLk7AIk)
+
+
 ## Features
 
 - Basic signup/login using Django's default classes
 - Admin can create chat rooms
 - Users can chat in their chat rooms after choosing a chat room
 - Chat messages are stored in Redis during the chat and also in sqlite database. 
-
+- [users.txt](https://github.com/rukshar69/Django-Chat/blob/main/djangochat/users.txt) file contains the list of users in the chat app including their usernames and passwords.
 ## Communication Mechanism
 
 The channel layer is a communication system that allows multiple consumer instances to talk with each other.
