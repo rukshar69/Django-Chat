@@ -2,7 +2,7 @@
 Creating a realtime group chat app using Django-channels and Redis server
 
 ## Video Demo
-[![Alt Text](https://img.youtube.com/vi/kauqyLk7AIk/0.jpg)](https://www.youtube.com/watch?v=kauqyLk7AIk)
+[![Alt Text](https://img.youtube.com/vi/kauqyLk7AIk/0.jpg)](https://www.youtube.com/watch?v=kauqyLk7AIk){:target="_blank"}
 
 
 ## Features
